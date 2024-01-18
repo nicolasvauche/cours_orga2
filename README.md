@@ -52,7 +52,8 @@ pour votre exploration continue et votre apprentissage dans le domaine du dével
 - Présentation des outils de développement web front-end
 - Installation et Configuration de VS Code, Prettier, Live Server
 - Introduction à HTML et CSS
-- Création de la Structure de Base du Projet Fil Rouge
+- Présentation et vote pour le Projet fil rouge
+- Création de la Structure de Base du Projet fil rouge
 
 ## 02. Design Web et outils de développement avancés
 
@@ -109,18 +110,19 @@ pour votre exploration continue et votre apprentissage dans le domaine du dével
 - Finalisation des implémentations pour le Projet
 - Revue de code et feedback
 
-## 05. Sécurité Web et Déploiement
+## 05. Sécurité Web, Recettage et Déploiement
 
 ### Objectifs :
 
 - Comprendre les bases de la Sécurité Web
-- Déployer le Projet sur Github Pages
-- Présenter et discuter des Projets finaux
+- Comprendre les bases du recettage et du déploiement
+- Déployer un Projet
 
 ### Première partie :
 
 - Introduction aux concepts de Sécurité Web
 - Application des pratiques de Sécurité au Projet
+- Introduction au recettage et au déploiement
 - Déploiement du Projet sur Github Pages
 
 ### Seconde partie :
